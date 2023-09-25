@@ -2,7 +2,7 @@
 name: "platanos.org"
 title: "platanos.org"
 description: "The Official Social Web App and Content Platform of Bananas"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/bg_ani_platanos_logo.gif'
 favicon: 'assets/images/logo.png'
 website: 'https://bananasnyc.github.io'
 baseurl: ''
